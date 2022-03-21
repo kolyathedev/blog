@@ -7,8 +7,6 @@ date: '2022-03-11'
 
 ## Introduction - the inability to maintain friendships over time
 
-### A first draft
-
 In this paper I wish to detail what I believe to be the main causes of the
 dissolution of relations between myself and other human beings, aiming to go
 further by explaining why exactly these causes have the effect they do. To this
@@ -83,4 +81,77 @@ perhaps not.
 Lets say that the former condition is satisfied. There is an irreconcilable
 mismatch of value hierarchies. This inevitably leaks out in conversation and the
 consequential effects and conclusions of such a hierarchy becomes ever more
-apparent.
+apparent. I will then feel a a need to question these differing values. When
+this value hierachy is attacked or questioned, if it really hits the core, a
+threat response as would be expected when a core system of beliefs of an
+individual is challenged; this is what they use to navigate through space, is
+their north star of orientation, accross multiple temporal dimensions.
+
+If I do not question these differing views, and this may indeed occur due to the
+lack of willingness and practice for speaking one's mind and an innate aversion
+to expected conflict, then resentment will build.
+
+In essence this will be worse than that the questioning of the value hierachies.
+Of course because discussion and deliberation allows for honest correction and
+truth seeking (depending on the other paties value structure towards honest
+deliberation and debate). Furthermore, the resentment shall build inside which
+leads to I suppose a form of comtempt for the other party and I shall feel a
+deep sense of dicomfort in allowing myself to be around a person who can hold
+such different views. Why is this? Well discomfort is a priori something that is
+a negative experience. This discomfort is then bolstered when their conclusions
+and actions in various matters are infected by this value hierachy and this is
+evinced clearly, serving as a further reminder that our value hierachies differ
+and thus the "discomfort" deepens and persists.
+
+Why then would a dicomfort be felt for someone who has differnt value hierachies
+than myself. At at what level of abstraction must the values differ before they
+move from tolerable to untolerable. For example, it is perfectly reasonable to
+expect differences in preference at the level of food, Say apples and oranges.
+But what if I say I like apples and they say they like oranges not for the micro
+difference of explicit taste, but because oranges are from farms they deem to be
+less exploited but than apples. This is then nested in a value structure that
+first, assumes that they have sufficient knowledge to make the claim that worker
+exploitation is worse in one industry than another. This is then nested in the
+assumption that assumes that they understand (or have not considered) the _the
+level of knowledge that would even be required_ to make such a claim, _and that
+they have this level_, and that they are not arrogant enough to fall susceptible
+to arrogance of the intellect. Surely then is not reasonable to take from this
+that the person's ability to map the familiar, make good judgements about the
+future ideal state and the means to get to this ideal state, are flawed. Is this
+the type of person that it is worth trading time for in exchange for
+"friendship". As everyone either implicitly or explicitly knows, time comes at
+an extremely high opportunity cost. This is made ever more so when you are
+trying to invest what spare time you have into switch careers like I am. Perhaps
+the road up the mountain is truly a lonely one.
+
+I will elaborate on the point of present understanding, future ideal and means
+to get there as a trio as a framework through which we live out our lives[^1].
+We as humans are going somewhere. A new state of being and we have no choice in
+the matter of whethere or not we _move to a new state of being_. We could sit in
+an ivory tower with a constant supply of nutrition to keep us sated, but no man
+is able to halt the power and progress of time. Age will come, as will death.
+However we certainly have a choice in what type of state we can choose to aim
+for in the near to long term. You can train or not train. Eat well or eat
+poorly. Forgive or forever hate. Each leading to different states of being. Thus
+we make our ways in the world aiming for what we believe is best. Knowing this,
+we want people around us to aim for the same ideal states, roughly speaking, as
+we do. I would quite like to live in a future state where we are both
+prosperous, rather than just one of us, if possible.
+
+Now, to aim for an ideal state, we must move from some form of understanding of
+the present;the familiar. We must also have a means of getting to this new
+desired ideal state. The way in which we structure the familiar and the known is
+thus likely to get influnence what our ideal state is. We identify the present
+by way of categorisation. This implies an inbuilt value hierarchy system to
+determine things that are categorised as more valuable over others. And thus the
+value hierarchy system has an innate effect of a persons formation of the ideal
+state to which they are moving.
+
+If the ideal state to which they are moving is not congruent with yours, well is
+it worth trading your time with this person? How is it that I can assume that I
+know what their ideal state is and that it is necessarily worse than what I am
+aiming for? What is the point in playing in a team which is not oriented towards
+the same goal? How aligned or disaligned must this goal be before social
+disintegration ensues?
+
+[^1] Jordan B Peterson: Maps Of Meaning
